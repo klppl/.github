@@ -1,16 +1,13 @@
-## Hi there 👋
+# `whoami` → `404 self not found`
 
-<!--
-**klppl/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
+> HTML guru with breadth as core competency.
+> I know everything — also as in a specialization.
 
-Here are some ideas to get you started:
+```js
+const meaning = await fetch('/api/meaning'); // 204 No Content
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Temporarily-organized stardust that learned to write `<div>` tags.
+The cosmos is indifferent. Center the div anyway.
+
+<sub>● online (for now) · certain of nothing, confident regardless</sub>
