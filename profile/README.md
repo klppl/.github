@@ -1,13 +1,14 @@
-# `whoami` → `404 self not found`
+# `whoami` → `lagom`
 
 > HTML guru with breadth as core competency.
-> I know everything — also as in a specialization.
+> I know a reasonable amount about most things. Not too much. Not too little.
 
 ```js
-const meaning = await fetch('/api/meaning'); // 204 No Content
+const effort = clamp(need, tooLittle, tooMuch); // lagom
 ```
 
-Temporarily-organized stardust that learned to write `<div>` tags.
-The cosmos is indifferent. Center the div anyway.
+Temporarily-organized stardust that writes `<div>` tags. Not too many.\
+Builds small things that do one thing, reasonably well.\
+Breaking changes on Saturdays only, like lördagsgodis. No support in July.
 
-<sub>● online (for now) · certain of nothing, confident regardless</sub>
+<sub>● online (in moderation) · one leftover screw · <a href="https://klppl.github.io/lagom-license/">licensed lagom</a></sub>
