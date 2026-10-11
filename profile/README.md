@@ -4,7 +4,24 @@
 > I know a reasonable amount about most things. Not too much. Not too little.
 
 ```js
-const effort = clamp(need, tooLittle, tooMuch); // lagom
+// lagom.js — no version number. numbering it would be immodest.
+const lagom = (amount) => {
+  if (amount > enough) return enough;     // not too much
+  if (amount < enough) return enough;     // not too little
+  return enough;                          // just right
+};
+
+const effort       = clamp(need, tooLittle, tooMuch);
+const coffee       = lagom(cups);         // milk is not discussed
+const cinnamonBuns = Math.min(buns, 2);   // never the third
+const applause     = everyone.stopAt(sameTime);
+const moose        = null;                // no control over moose. nobody does.
+const july         = undefined;           // out of office
+
+await fika();                             // blocking, by design
+
+// this block is now too long and therefore un-lagom.
+// the author has decided to live with that.
 ```
 
 Pours code like a Swede pours coffee: enough for everyone, and nobody mentions the milk.\
