@@ -7,8 +7,9 @@
 const effort = clamp(need, tooLittle, tooMuch); // lagom
 ```
 
-Temporarily-organized stardust that writes `<div>` tags. Not too many.\
-Builds small things that do one thing, reasonably well.\
-Breaking changes on Saturdays only, like lördagsgodis. No support in July.
+Pours code like a Swede pours coffee: enough for everyone, and nobody mentions the milk.\
+Issues are handled in queue-ticket order. Cutting the line won't be mentioned. It will be remembered.\
+Every project ships with one leftover screw. It goes nowhere. It has always gone nowhere.\
+Out of office: all of July.
 
-<sub>● online (in moderation) · one leftover screw · <a href="https://klppl.github.io/lagom-license/">licensed lagom</a></sub>
+<sub>● online, but not too online · fika-driven development · <a href="https://klppl.github.io/lagom-license/">licensed lagom</a></sub>
